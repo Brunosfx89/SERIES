@@ -1,0 +1,335 @@
+<channels>
+</channels><channel>
+<name>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] A MALDIÇÃO DA MANSÃO BLY [/B][/COLOR]</name>
+<thumbnail>https://tinyurl.com/y3ggchx8</thumbnail>
+<fanart>https://tinyurl.com/y3ggchx8</fanart>
+<info>[COLOR gold][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] A MALDIÇÃO DA MANSÃO BLY [/COLOR]
+[COLOR gold][B]ANO DE LANÇAMENTO:[/B][/COLOR][COLOR white] 2020 [/COLOR]
+[COLOR gold][B]GÊNERO:[/B][/COLOR][COLOR white] Mistério, Drama [/COLOR]
+[COLOR gold][B]QUALIDADE:[/B][/COLOR][COLOR cyan] FULL HD [/COLOR]
+[COLOR gold][B]TEMPODAS:[/B][/COLOR][COLOR cyan] 1 [/COLOR]
+[COLOR gold][B]IMDB:[/B][/COLOR][COLOR white][B] 7.4 [/B][/COLOR]
+[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Após a trágica morte de uma au pair, Henry contrata uma jovem babá americana para cuidar de sua sobrinha e sobrinho órfãos que moram em Bly Manor com o chef Owen, o jardineiro Jamie e a governanta, a Sra. Grose.
+[/B][/COLOR]</info>
+
+<item>
+<title>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] 1ª Temporada Completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ECE3683C87D931007C0CCB329C7DB644880EE19</link>
+<thumbnail>https://tinyurl.com/y3ggchx8</thumbnail>
+<fanart>https://tinyurl.com/y3ggchx8</fanart>
+<info>[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Após a trágica morte de uma au pair, Henry contrata uma jovem babá americana para cuidar de sua sobrinha e sobrinho órfãos que moram em Bly Manor com o chef Owen, o jardineiro Jamie e a governanta, a Sra. Grose.
+[/B][/COLOR]</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+</channels><channel>
+<name>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] PRISON BREAK [/B][/COLOR]</name>
+<thumbnail>https://tinyurl.com/vft8opq</thumbnail>
+<fanart>https://tinyurl.com/vft8opq</fanart>
+<info>[COLOR gold][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] PRISON BREAK [/COLOR]
+[COLOR gold][B]ANO DE LANÇAMENTO:[/B][/COLOR][COLOR white] 2005/2017 [/COLOR]
+[COLOR gold][B]GÊNERO:[/B][/COLOR][COLOR white] Ação, Crime, Drama [/COLOR]
+[COLOR gold][B]QUALIDADE:[/B][/COLOR][COLOR cyan] FULL HD [/COLOR]
+[COLOR gold][B]TEMPODAS:[/B][/COLOR][COLOR cyan] 5 [/COLOR]
+[COLOR gold][B]IMDB:[/B][/COLOR][COLOR white][B] 8.3 [/B][/COLOR]
+[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Prison Break gira em torno de Michael Scofield (Wentworth Miller), um homem desesperado por conta de um fato pouco comum: seu irmão Lincoln Burrows (Dominic Purcell) foi condenado à morte por um crime que Michael tem certeza que ele não cometeu. Disposto a salvá-lo, Michael decide roubar um banco a fim de ir parar na mesma prisão onde seu irmão se encontra. A partir daí, ele terá de correr contra o tempo e pôr em prática um plano elaborado para conseguir fugir com Lincoln e provar sua inocência. A série Prison Break é um drama intrigante e que, a cada episódio, adiciona novos elementos a trama, ao passo em que Michael planeja sua grande fuga e tenta resolver a conspiração que o fez encarar a prisão.[/B][/COLOR]</info>
+
+
+<item>
+<title>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] 1ª Temporada (2005)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3381CB58F71811E1B75C1939097C68A1B58E7E8C</link>
+<thumbnail>https://tinyurl.com/vft8opq</thumbnail>
+<fanart>https://tinyurl.com/vft8opq</fanart>
+<info>[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Prison Break gira em torno de Michael Scofield (Wentworth Miller), um homem desesperado por conta de um fato pouco comum: seu irmão Lincoln Burrows (Dominic Purcell) foi condenado à morte por um crime que Michael tem certeza que ele não cometeu. Disposto a salvá-lo, Michael decide roubar um banco a fim de ir parar na mesma prisão onde seu irmão se encontra. A partir daí, ele terá de correr contra o tempo e pôr em prática um plano elaborado para conseguir fugir com Lincoln e provar sua inocência. A série Prison Break é um drama intrigante e que, a cada episódio, adiciona novos elementos a trama, ao passo em que Michael planeja sua grande fuga e tenta resolver a conspiração que o fez encarar a prisão. [/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] 2ª Temporada (2006)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2D1BBB9417327572BF8DDD2E7225C691330D18C</link>
+<thumbnail>https://tinyurl.com/y69fa2fo</thumbnail>
+<fanart>https://tinyurl.com/y69fa2fo</fanart>
+<info>[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Prison Break gira em torno de Michael Scofield (Wentworth Miller), um homem desesperado por conta de um fato pouco comum: seu irmão Lincoln Burrows (Dominic Purcell) foi condenado à morte por um crime que Michael tem certeza que ele não cometeu. Disposto a salvá-lo, Michael decide roubar um banco a fim de ir parar na mesma prisão onde seu irmão se encontra. A partir daí, ele terá de correr contra o tempo e pôr em prática um plano elaborado para conseguir fugir com Lincoln e provar sua inocência. A série Prison Break é um drama intrigante e que, a cada episódio, adiciona novos elementos a trama, ao passo em que Michael planeja sua grande fuga e tenta resolver a conspiração que o fez encarar a prisão. [/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] 3ª Temporada (2008)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4066580FE267A127D4190F9A5C6DCDCFB8C28DC8</link>
+<thumbnail>https://tinyurl.com/vbg3ywx</thumbnail>
+<fanart>https://tinyurl.com/vbg3ywx</fanart>
+<info>[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Prison Break gira em torno de Michael Scofield (Wentworth Miller), um homem desesperado por conta de um fato pouco comum: seu irmão Lincoln Burrows (Dominic Purcell) foi condenado à morte por um crime que Michael tem certeza que ele não cometeu. Disposto a salvá-lo, Michael decide roubar um banco a fim de ir parar na mesma prisão onde seu irmão se encontra. A partir daí, ele terá de correr contra o tempo e pôr em prática um plano elaborado para conseguir fugir com Lincoln e provar sua inocência. A série Prison Break é um drama intrigante e que, a cada episódio, adiciona novos elementos a trama, ao passo em que Michael planeja sua grande fuga e tenta resolver a conspiração que o fez encarar a prisão. [/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] 4ª Temporada (2009)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD147F1518862960C71014C0604EC12E4AE6AF0C</link>
+<thumbnail>https://tinyurl.com/tt6fylp</thumbnail>
+<fanart>https://tinyurl.com/tt6fylp</fanart>
+<info>[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Prison Break gira em torno de Michael Scofield (Wentworth Miller), um homem desesperado por conta de um fato pouco comum: seu irmão Lincoln Burrows (Dominic Purcell) foi condenado à morte por um crime que Michael tem certeza que ele não cometeu. Disposto a salvá-lo, Michael decide roubar um banco a fim de ir parar na mesma prisão onde seu irmão se encontra. A partir daí, ele terá de correr contra o tempo e pôr em prática um plano elaborado para conseguir fugir com Lincoln e provar sua inocência. A série Prison Break é um drama intrigante e que, a cada episódio, adiciona novos elementos a trama, ao passo em que Michael planeja sua grande fuga e tenta resolver a conspiração que o fez encarar a prisão. [/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] 5ª Temporada (2017)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:012A63A885D2951E2F757B919BA99F8F9887ED48</link>
+<thumbnail>https://tinyurl.com/w9pq8ce</thumbnail>
+<fanart>https://tinyurl.com/w9pq8ce</fanart>
+<info>[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Prison Break gira em torno de Michael Scofield (Wentworth Miller), um homem desesperado por conta de um fato pouco comum: seu irmão Lincoln Burrows (Dominic Purcell) foi condenado à morte por um crime que Michael tem certeza que ele não cometeu. Disposto a salvá-lo, Michael decide roubar um banco a fim de ir parar na mesma prisão onde seu irmão se encontra. A partir daí, ele terá de correr contra o tempo e pôr em prática um plano elaborado para conseguir fugir com Lincoln e provar sua inocência. A série Prison Break é um drama intrigante e que, a cada episódio, adiciona novos elementos a trama, ao passo em que Michael planeja sua grande fuga e tenta resolver a conspiração que o fez encarar a prisão. [/B][/COLOR]</info>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]-SOBRENATURAL-[/B][/COLOR]</name>
+<thumbnail>https://tinyurl.com/r4ykalb</thumbnail>
+<fanart>https://tinyurl.com/r4ykalb</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Supernatural conta a história de Dean Winchester (Jensen Ackles) e Sam Winchester (Jared Padalecki), dois irmãos que lutam contra criaturas cuja existência é desconhecida pela maioria das pessoas. Os irmãos perderam a sua mãe num incêndio que foi causado por circunstâncias sobrenaturais. Como resultado, o seu pai, John, dedicou a sua vida a viajar por todo o país para tentar descobrir o que causou a morte da sua mulher e procurar vingança. Ele levou os seus filhos consigo, treinando-os para lutar contra o mal.Dean ficou com John para o ajudar a caçar,enquanto Sam deixou a sua vida de caçador para ir para a Universidade de Stanford. Quando o seu pai desaparece de repente, Dean pede ajuda a Sam para o encontrar,e desde então os irmãos Dean e Sam viajam pelo país, num Chevrolet Impala de 1967 preto, investigando situações Sobrenaturais e outras ocorrências inexplicáveis,muitas delas baseadas na crença popular,mitos e lendas urbanas americanas e também criaturas baseadas em contos sobrenaturais como Vampiros, Lobisomens e Fantasmas.[/COLOR]</info>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 1ª Temporada (2004) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43A4272E6D6624BC93AF2B7914C21444F5C3D706</link>
+<thumbnail>https://tinyurl.com/r4ykalb</thumbnail>
+<fanart>https://tinyurl.com/r4ykalb</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Supernatural conta a história de Dean Winchester (Jensen Ackles) e Sam Winchester (Jared Padalecki), dois irmãos que lutam contra criaturas cuja existência é desconhecida pela maioria das pessoas. Os irmãos perderam a sua mãe num incêndio que foi causado por circunstâncias sobrenaturais. Como resultado, o seu pai, John, dedicou a sua vida a viajar por todo o país para tentar descobrir o que causou a morte da sua mulher e procurar vingança. Ele levou os seus filhos consigo, treinando-os para lutar contra o mal.Dean ficou com John para o ajudar a caçar,enquanto Sam deixou a sua vida de caçador para ir para a Universidade de Stanford. Quando o seu pai desaparece de repente, Dean pede ajuda a Sam para o encontrar,e desde então os irmãos Dean e Sam viajam pelo país, num Chevrolet Impala de 1967 preto, investigando situações Sobrenaturais e outras ocorrências inexplicáveis,muitas delas baseadas na crença popular,mitos e lendas urbanas americanas e também criaturas baseadas em contos sobrenaturais como Vampiros, Lobisomens e Fantasmas.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 2ª Temporada (2005) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FA2E1790D1CCB1DC47402B60859ADAFE49091CA</link>
+<thumbnail>https://tinyurl.com/ujntp5r</thumbnail>
+<fanart>https://tinyurl.com/ujntp5r</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white] A segunda temporada começa com Dean à beira da morte e Sam lutando para salvar o irmão. Quando John percebe que seu caçula não obteve sucesso, faz um acordo com o demônio. Troca a Colt e sua vida pela vida de Dean. Antes de morrer John sussurra no ouvido de Dean algo impossível de escutar. Os episódios seguintes mostram a dor dos dois irmãos por terem perdido o pai e especialmente o sofrimento de Dean, que acredita que ele deveria estar morto no lugar do pai. Alguns episódios depois descobre-se o que John disse para Dean no dia de sua morte. John avisou a Dean que ele um dia poderia ter que matar o própio irmão. A partir desse momento descobrimos que o demônio tem planos especiais para Sam. Explica-se que existem certas “crianças especiais”, todas nascidas no mesmo dia, com habilidades especiais e que de um dia para o outro poderiam mudar de lado e lutar pelo mal. Sam pode ficar frente a frente com o demônio, mas nada podia fazer a sua defesa. O demônio reuniu todas as crianças especiais, propondo uma ‘guerra’ entre eles. Após explicar que só um sairia vivo dali e que esse sobrevivente seria o líder do seu exercito demoníaco, todos ficaram com um certo medo, afinal nenhum queria morrer. A luta começa, sobrando apenas Sam e outro , cuja nome é Jake. Jake não conseguia seguir as palavras de Sam, que lhe dizia para não dar ouvidos ao demônio, mas jake não se conteve. Na mesma hora Dean consegue achar seu irmão, ele e Boby (amigo de Sam e Dean e se pai John) estavam a procura de Sam, que havia desaparecido do nada. Quando Sam avista Dean, ele segue correndo até ele, mas Jake o apunhala pelas costas, assim matando Sam.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 3ª Temporada (2006) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F0375C6C1CD8ED20378A10EF8132C5C45A0E44A7</link>
+<thumbnail>https://tinyurl.com/se3opq6</thumbnail>
+<fanart>https://tinyurl.com/se3opq6</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Na terceira temporada Dean não consegue enterrar seu irmão. Um sentimento de culpa o dominava. Ele resolve fazer um pacto com o demônio, o mesmo pacto que seu pai John fez para salva-lo, entregar sua vida pela do seu irmão Sam. O demônio não sendo generoso, lhe dá apenas um ano de vida ao lado do seu irmão. Dean aceita. Após Sam ficar sabendo do pacto, tenta desfazer, mas Dean sabia que se tentarem desfazer o acordo a vida de Sam poderia ser tirada, assim ambos entraram em um desacordo, Sam querendo salvar o irmão e Dean querendo deixar as coisas como estão. No resto dos capítulos, os irmãos Winchester continuam caçando, Dean vivendo a vida loucamente. Porém eles não sabem que por trás de tudo existe uma força demoníaca maior chamada Lilith e que fará o possível para acabar com Sam. No final dessa temporada o prazo do pacto de Dean se esgota, resultando em sua morte, que ocorre de forma brutal. Nos momentos finais aparece ele agonizando no inferno, acorrentado e clamando por ajuda.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 4ª Temporada (2008) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FCD4526B4C63A9F92936C009B723471DDC78958</link>
+<thumbnail>https://tinyurl.com/uzxcb7g</thumbnail>
+<fanart>https://tinyurl.com/uzxcb7g</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Quatro meses após a morte de Dean, Sam, deprimido pela morte do irmão, passa a exercitar suas habilidades demoníacas com Ruby para se vingar de Lilith. Dean, porém, está sendo torturado no inferno, enquanto uma proposta é lhe feita todos os dias pelo demônio Alastair: “vire um torturador de almas, que a sua será poupada”. Após quarenta anos, equivalente a quatro meses terrestres, Dean é ressuscitado pelo anjo Castiel, para que ele sirva as ordens do Céu. Além de Castiel, outros anjos estão na Terra, como Anna e Uriel, para impedir que Lilith quebre os 66 selos que mantêm Lúcifer preso, e que trarão o Apocalipse.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 5ª Temporada (2009) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:360CEA8F07F2F0E7FD67C6B47E30AE5F43C8E580</link>
+<thumbnail>https://tinyurl.com/wbmtnpg</thumbnail>
+<fanart>https://tinyurl.com/wbmtnpg</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Após a batalha contra o inicio do Apocalipse ter sido perdida, Dean (Jensen Ackles) e Sam (Jared Padalecki) observam Lucifer (Mark Pellegrino) merge do Inferno. Os irmãos e Bobby (Jim Beaver) lidam com as consequências de Lúcifer, avisados por Chuck, o Profeta (Rob Benedict) que Castiel (Misha Collins) foi explodido em pedaços pelos arcanjos após salva-lo na temporada anterior.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 6ª Temporada (2010) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9FE167918DA71702F122AAD8C1C656849FC8D9B</link>
+<thumbnail>https://tinyurl.com/uaz477z</thumbnail>
+<fanart>https://tinyurl.com/uaz477z</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Um ano depois, Dean (Jensen Ackles) vive feliz na companhia de Lisa (Cindy Sampson) e Ben (Nicholas Elia). Mas quando reencontra Sam (Jared Padalecki), ele é obrigado a abandonar a nova vida e trabalhar com seu avô Samuel (Mitch Pileggi), que se dedica à captura de monstros.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 7ª Temporada (2011) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CBBE745D9B589AE2E0936D9F6266B74E43B1260A</link>
+<thumbnail>https://tinyurl.com/sz965df</thumbnail>
+<fanart>https://tinyurl.com/sz965df</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]A sétima temporada de Supernatural estreou no dia 23 de setembro de 2011 nos EUA pelo The CW às 21h. O elenco foi composto por Jared Padalecki, Jensen Ackles, Jim Beaver e Misha Collins. Na sétima temporada de “Supernatural”, os papéis se inverteram e os irmãos foram caçados por uma força sobrenatural. Como se isto não bastasse, os Winchesters enfrentaram um novo e temível inimigo, um estranho e poderoso ser que os cerca, e que consegue ser mais manipulador e desleal do que qualquer outra criatura que já se depararam.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 8ª Temporada (2012) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ACE1FB2011FE9FCDDC820718FA2FE2D77CBE765F</link>
+<thumbnail>https://tinyurl.com/qn5boqb</thumbnail>
+<fanart>https://tinyurl.com/qn5boqb</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Na Oitava temporada de Supernatural, começa com Dean e a tarefa aparentemente impossível de escapar do Purgatório, Castiel está longe de ser encontrado. Entretanto, Dean não está sozinho. Ele se encontra com um companheiro de batalha que talvez tenha mais razões para escapar do que Dean. Enquanto isso Sam encontra-se numa reconciliação consigo mesmo e sua vida que descobriu após Dean ter desaparecido.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 9ª Temporada (2013) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB1B95C0F858F02C951FFE4148DF7FBA35DC6768</link>
+<thumbnail>https://tinyurl.com/smh3k4x</thumbnail>
+<fanart>https://tinyurl.com/smh3k4x</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]A nona temporada da série de televisão Supernatural foi renovada oficialmente pela The CW em 11 de fevereiro de 2013 e estreou dia 8 de outubro de 2013. Esta temporada vai contar com 23 episódios. Nesta temporada a série passará a ser exibida às terças-feiras nos Estados Unidos. O início das gravações da 9ª temporada será no dia 11 de Julho de 2013 e o término será no dia 24 de Abril de 2014. Jensen Ackles não irá dirigir o primeiro episódio a ser filmado da temporada – como fez nas últimas três temporadas – devido ao nascimento de sua filha, JJ Ackles. A temporada vai mostrar os anjos caídos na Terra e as consequências provocadas pela queda dos seres angelicais. Como disse o produtor Jeremy Carver durante a San Diego Comic-Con 2013, Dean terá algumas decisões em mãos, em que ele guardará um segredo que será crucial e que definirá a mitologia para o resto da temporada. Castiel terá que se adaptar entre os humanos, já que ele perdeu sua graça e foi “humanizado”.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 10ª Temporada (2014) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:984201693CF8226D5E9D6299E652AC6D3E5B94C9</link>
+<thumbnail>https://tinyurl.com/ukldzny</thumbnail>
+<fanart>https://tinyurl.com/ukldzny</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]A décima temporada começa com a busca frenética de Sam pelo seu irmão desaparecido, que se foi sem deixar rastros. A estrada para recuperar o instável Dean leva Sam a caminhos obscuros, com consequências que vão afetar profundamente os irmãos. Enquanto isso, Castiel precisa recolher os pedaços deixados como consequência da campanha de Metatron. Com sua graça falhando e anjos rebeldes ainda à solta, Cass enfrentará relógio da própria mortalidade enquanto novas ameaças emergem mais uma vez, levando nossos heróis ao limite.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Supernatural 11ª Temporada (2015) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36A1798EE0E66ABF7AEC974EE43666A7ADA4B8C2</link>
+<thumbnail>https://tinyurl.com/uk68tcl</thumbnail>
+<fanart>https://tinyurl.com/uk68tcl</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Há 20 anos, Sam e Dean Winchester perderam sua mãe em um trágico e misterioso acidente, no qual as forças sobrenaturais — muito obscuras — estiveram envolvidas. Por esta razão, seu pai decidiu ensiná-los a lidar com a vida sobrenatural, ensinando-lhes técnicas de defesa contra as forças do mal; chegando até a ensinar a maneira ideal para matar os diferentes tipos de demônios. Agora, os irmãos Winchester percorrem os Estados Unidos em seu velho Chevy travando uma verdadeira batalha contra a obscuridade e a maldade. Objetos amaldiçoados, vampiros, bruxas e entidades maléficas.[/COLOR]</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]-SIREN-[/B][/COLOR]</name>
+<thumbnail>https://tinyurl.com/toyek33</thumbnail>
+<fanart>https://tinyurl.com/toyek33</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]A captura de uma criatura marinha feroz por pescadores de um vilarejo no noroeste do oceano pacífico abala as estruturas do local. A descoberta parece desafiar tudo que os habitantes achavam que sabiam sobre o mar, pois tudo indica que se trata de uma sereia.[/COLOR]</info>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Siren 1ª Temporada (2018) 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C065653D5FB7681EB61F80CDC195376E475B52E</link>
+<thumbnail>https://tinyurl.com/toyek33</thumbnail>
+<fanart>https://tinyurl.com/toyek33</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]A captura de uma criatura marinha feroz por pescadores de um vilarejo no noroeste do oceano pacífico abala as estruturas do local. A descoberta parece desafiar tudo que os habitantes achavam que sabiam sobre o mar, pois tudo indica que se trata de uma sereia.[/COLOR]</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]-AGENTS OF S.H.I.E.L.D-[/B][/COLOR]</name>
+<thumbnail>https://tinyurl.com/v4admth</thumbnail>
+<fanart>https://tinyurl.com/v4admth</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Um time de elite formado por agentes especiais investiga acontecimentos estranhos em todo o planeta, protegendo cidadãos comuns de eventos bastante incomuns.[/COLOR]</info>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-AGENTS OF S.H.I.E.L.D: 1ª TEMPORADA (2013) BLURAY 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:642732E1ED97BFAF0EC1B505C443926AFBCF8488</link>
+<thumbnail>https://tinyurl.com/wmybenn</thumbnail>
+<fanart>https://tinyurl.com/wmybenn</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]AMarvel's Agents of S.H.I.E.L.D., ou simplesmente Agents of S.H.I.E.L.D., é uma série de televisão americana desenvolvida por Joss Whedon, em colaboração com Jed Whedon e Maurissa Tancharoen, com base na organização S.H.I.E.L.D. da Marvel Comics.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-AGENTS OF S.H.I.E.L.D: 2ª TEMPORADA (2014) WEB-DL 1080P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C95F2B1A5A302B9A765C47849A12B8258B8F593</link>
+<thumbnail>https://tinyurl.com/rg4m3sq</thumbnail>
+<fanart>https://tinyurl.com/rg4m3sq</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]10 Anos de Pura Amizade – Após ajudar a impedir a Hydra, Coulson foi nomeado diretor e tem como missão reconstruir a agência. Essa não será uma tarefa fácil, ainda mais com a maioria dos agentes da S.H.I.E.L.D. mortos, secretamente trabalhando para a organização extremista ou trabalhando por conta própria. A agente Melinda May, experiente nas artes marciais e em pilotagem, além de amiga de longa data, continuará a tomar conta de Coulson tendo em vista as misteriosas gravuras que o novo diretor está desenhando nas paredes. Enquanto isso, Grant Ward, altamente treinado em combate e espionagem, foi desmascarado como um infiltrado da Hydra e traidor da S.H.I.E.L.D., o que levou à sua prisão.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-AGENTS OF S.H.I.E.L.D: 3ª TEMPORADA (2015-2016) WEB-DL 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45F251B1A2120B43115656E22EEC6D2958A55065</link>
+<thumbnail>https://tinyurl.com/rxvww7t</thumbnail>
+<fanart>https://tinyurl.com/rxvww7t</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]A terceira temporada da série de televisão america Agents of S.H.I.E.L.D, que é baseada na organização S.H.I.E.L.D. da Marvel Comics, gira em torno do personagem de Phil Coulson e sua equipe de agentes da S.H.I.E.L.D., que montam uma equipe de Inumanos para lidar com novas ameaças ao mundo.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-AGENTS OF S.H.I.E.L.D: 4ª TEMPORADA (2017) WEB-DL 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06885701AFD7E4F39506F99CB5545E572E8C03F0</link>
+<thumbnail>https://tinyurl.com/w7dz8a6</thumbnail>
+<fanart>https://tinyurl.com/w7dz8a6</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Em sequência ao seu papel no campeão das bilheterias Os Vingadores, o agente Phil Coulson retorna para a S.H.I.E.L.D., a organização de execução da lei. Ali, ele monta um pequeno e altamente treinado grupo de agentes para lidar com o estranho e o desconhecido, em casos que ainda não foram classificados. O time é formado pelo focado agente Grant Ward, um especialista em combate e espionagem; a agente Melinda May, uma piloto e perita em artes marciais; o agente Leo Fitz, um cientista brilhante, porém um pouco deslocado socialmente; e a agente Jemma Simmons.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-AGENTS OF S.H.I.E.L.D: 5ª TEMPORADA (2017) WEB-DL 720P-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24F27946CCFFEAD43ECAB3AF87AD87CCBF9862E1</link>
+<thumbnail>https://tinyurl.com/y9xb8hmt</thumbnail>
+<fanart>https://tinyurl.com/y9xb8hmt</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Após os acontecimentos em Nova York, retratados em Os Vingadores, a S.H.I.E.L.D. (Superintendência Humana de Intervenção, Espionagem, Logística e Dissuasão) deve mobilizar seus integrantes para solucionar vários casos relacionados com super-heróis. A equipe é liderada pelo agente Phil Coulson.[/COLOR]</info>
+</item>
+$$lsname=[COLOR orange][B] 
+ 01 [/B][/COLOR][COLOR cyan]-HD[/COLOR]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]-O Ultimo Dragão-[/B][/COLOR]</name>
+<thumbnail>https://tinyurl.com/y7ptck6q</thumbnail>
+<fanart>https://tinyurl.com/y7ptck6q</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Ele volta de Tóquio ao México para assumir o posto do avô no comando de um cartel. Agora, terá que disputar o controle dos negócios rivais.[/COLOR]</info>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-O Ultimo Dragão 1ª TEMPORADA (2019) -[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6C24E39CE260D606C687C2ABF5CC63C28FE7E795</link>
+<thumbnail>https://tinyurl.com/y7ptck6q</thumbnail>
+<fanart>https://tinyurl.com/y7ptck6q</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Ele volta de Tóquio ao México para assumir o posto do avô no comando de um cartel. Agora, terá que disputar o controle dos negócios rivais.[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-O Ultimo Dragão 2ª TEMPORADA (2020) -[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C7E7F9E935A3D7F2BA43FA4C5151775E95652BC</link>
+<thumbnail>https://tinyurl.com/y7ptck6q</thumbnail>
+<fanart>https://tinyurl.com/y7ptck6q</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]Ele volta de Tóquio ao México para assumir o posto do avô no comando de um cartel. Agora, terá que disputar o controle dos negócios rivais.[/COLOR]</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]-BUCKY-[/B][/COLOR]</name>
+<thumbnail>https://tinyurl.com/y9mpsqsj</thumbnail>
+<fanart>https://tinyurl.com/y9mpsqsj</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white] O anime se passa em um planeta paralelo. Este planeta é dividido em 12 “mundos”, e de tal forma que se assemelha muito com um relógio. No centro do planeta existe a torre pontiaguda, onde o tempo não passa. Em cada um dos doze mundos existe uma Grande Criança (ou simplesmente GC), que na verdade é a guardiã daquele mundo. Ela sempre está acompanhada de seu espírito, – um ser vivo rosado e redondo que tem a habilidade de gerar ataques explosivos – o qual é seu fiel companheiro e a ajuda a derrotar os monstros encrenqueiros. Nem todo monstro é um monstro encrenqueiro, mas, estranhamente, a quantidade de monstros encrenqueiros vem crescendo rapidamente nos últimos tempos. E é aí que começa nossa história.[/COLOR]</info>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-BUCKY- 1ª TEMPORADA ULTIMA (1999) -[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEC28D080ECEDDE822F41AB91D6106D64DFF7463</link>
+<thumbnail>https://tinyurl.com/y9mpsqsj</thumbnail>
+<fanart>https://tinyurl.com/y9mpsqsj</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
+[COLOR white]O anime se passa em um planeta paralelo. Este planeta é dividido em 12 “mundos”, e de tal forma que se assemelha muito com um relógio. No centro do planeta existe a torre pontiaguda, onde o tempo não passa. Em cada um dos doze mundos existe uma Grande Criança (ou simplesmente GC), que na verdade é a guardiã daquele mundo. Ela sempre está acompanhada de seu espírito, – um ser vivo rosado e redondo que tem a habilidade de gerar ataques explosivos – o qual é seu fiel companheiro e a ajuda a derrotar os monstros encrenqueiros. Nem todo monstro é um monstro encrenqueiro, mas, estranhamente, a quantidade de monstros encrenqueiros vem crescendo rapidamente nos últimos tempos. E é aí que começa nossa história.[/COLOR]</info>
+</item>
