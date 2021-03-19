@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] ELEMENTUM FILMES [/B][/COLOR]</name>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] ALMA PERDIDA [/B][/COLOR]</name>
 <thumbnail>https://tinyurl.com/vsm328w</thumbnail>
-<externallink>https://pastebin.com/raw/d52WtKb0</externallink>
+<externallink></externallink>
 <fanart>https://tinyurl.com/vsm328w</fanart>
 <info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
 [COLOR orange][B]Clik e verá os melhores conteúdos atualizados semanalmente...[/B][/COLOR]</info>
