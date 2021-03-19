@@ -1,15 +1,16 @@
-<item>
-<title>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] A Bruxa da Casa ao Lado [/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75E60F1518996A213EA5905FD6F5FB584014C919</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auYgUlzat97qhDNPk2RjjU6cvnb.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auYgUlzat97qhDNPk2RjjU6cvnb.jpg</fanart>
-<info>
-[COLOR lime][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] The Wretched[/COLOR]
-[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR][COLOR white] 2020 [/COLOR]
-[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white]  Terror [/COLOR]
-[COLOR lime][B]QUALIDADE:[/B][/COLOR][COLOR cyan] FULL HD [/COLOR]
-[COLOR lime][B]DURAÇÃO:[/B][/COLOR][COLOR white] 1h 35Min [/COLOR]
-[COLOR lime][B]IMDB:[/B][/COLOR][COLOR white][B] 5.8 [/B][/COLOR]
-[COLOR lime][B]SINOPSE:[/B][/COLOR][COLOR white][B] Um adolescente rebelde lidando com o divórcio iminente de seus pais acaba enfrentando uma bruxa de mil anos que se apossou do corpo de uma vizinha.[/B][/COLOR]</info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+channels>
+<channel>
+<name>[COLOR blue]A Lenda de Sleepy Hollow[/COLOR]</name> 
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CxHPDRsE7vHNz68GybXOMLxiNB.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Lenda%20de%20Sleepy%20Hollow</externallink> 
+<fanart>https://www.themoviedb.org/t/p/original/nfWWVIX1txYXSJFungrv1B3phAC.jpg</fanart>
+<info>Ichabod Crane é ressuscitado e transportado 250 anos no futuro para resolver um mistério criado depois que um feitiço foi lançado no campo de batalha na revolução.<info> 
+
+
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
