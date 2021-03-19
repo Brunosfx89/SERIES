@@ -1,21 +1,12 @@
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] ELEMENTUM FILMES [/B][/COLOR]</name>
+<thumbnail>https://tinyurl.com/vsm328w</thumbnail>
+<externallink>https://pastebin.com/raw/d52WtKb0</externallink>
+<fanart>https://tinyurl.com/vsm328w</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]Clik e verá os melhores conteúdos atualizados semanalmente...[/B][/COLOR]</info>
 </channel>
 </channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
-</channel>
-</channels>
-<name>[COLOR blue]A Lenda de Sleepy Hollow[/COLOR]</name> 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CxHPDRsE7vHNz68GybXOMLxiNB.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Lenda%20de%20Sleepy%20Hollow</externallink> 
-<fanart>https://www.themoviedb.org/t/p/original/nfWWVIX1txYXSJFungrv1B3phAC.jpg</fanart>
-<info>Ichabod Crane é ressuscitado e transportado 250 anos no futuro para resolver um mistério criado depois que um feitiço foi lançado no campo de batalha na revolução.<info> 
-
-
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
