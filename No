@@ -10,3 +10,17 @@
 </channels>
  
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+</channels><channel>
+<name>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] A MALDIÇÃO DA MANSÃO BLY [/B][/COLOR]</name>
+<thumbnail>https://tinyurl.com/y3ggchx8</thumbnail>
+<fanart>https://tinyurl.com/y3ggchx8</fanart>
+<info>[COLOR gold][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] A MALDIÇÃO DA MANSÃO BLY [/COLOR]
+[COLOR gold][B]ANO DE LANÇAMENTO:[/B][/COLOR][COLOR white] 2020 [/COLOR]
+[COLOR gold][B]GÊNERO:[/B][/COLOR][COLOR white] Mistério, Drama [/COLOR]
+[COLOR gold][B]QUALIDADE:[/B][/COLOR][COLOR cyan] FULL HD [/COLOR]
+[COLOR gold][B]TEMPODAS:[/B][/COLOR][COLOR cyan] 1 [/COLOR]
+[COLOR gold][B]IMDB:[/B][/COLOR][COLOR white][B] 7.4 [/B][/COLOR]
+[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Após a trágica morte de uma au pair, Henry contrata uma jovem babá americana para cuidar de sua sobrinha e sobrinho órfãos que moram em Bly Manor com o chef Owen, o jardineiro Jamie e a governanta, a Sra. Grose.
+[/B][/COLOR]</info>
