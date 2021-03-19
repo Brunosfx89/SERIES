@@ -1,5 +1,10 @@
-channels>
-<channel>
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+</channel>
+</channels>
 <name>[COLOR blue]A Lenda de Sleepy Hollow[/COLOR]</name> 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CxHPDRsE7vHNz68GybXOMLxiNB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/A%20Lenda%20de%20Sleepy%20Hollow</externallink> 
