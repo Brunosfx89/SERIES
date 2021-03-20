@@ -1,4 +1,3 @@
-<channels>
 </channels><channel>
 <name>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] A MALDIÇÃO DA MANSÃO BLY [/B][/COLOR]</name>
 <thumbnail>https://tinyurl.com/y3ggchx8</thumbnail>
