@@ -1,10 +1,10 @@
 <channels>
 <channel>
-<name>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] PRISON BREAK [/B][/COLOR]</name>
+<name>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] Prisonbreak [/B][/COLOR]</name>
 <thumbnail>https://tinyurl.com/vft8opq</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/Brunosfx89/SERIES/main/Prison_break</externallink>
-<info>[COLOR gold][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] PRISON BREAK [/COLOR]
+<info>[COLOR gold][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] Prisonbreak [/COLOR]
 [COLOR gold][B]ANO DE LANÇAMENTO:[/B][/COLOR][COLOR white] 2005/2017 [/COLOR]
 [COLOR gold][B]GÊNERO:[/B][/COLOR][COLOR white] Ação, Crime, Drama [/COLOR]
 [COLOR gold][B]QUALIDADE:[/B][/COLOR][COLOR cyan] FULL HD [/COLOR]
@@ -18,13 +18,13 @@
 
 <channels>
 <channel>
-<name>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] SOBRENATURAL [/B][/COLOR]</name>
+<name>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] Sobrenatural [/B][/COLOR]</name>
 <thumbnail>https://static1.purebreak.com.br/articles/6/89/92/6/@/343756--supernatural-696x0-2.jpg</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/Brunosfx89/SERIES/main/Super_natural</externallink>
 <info>[COLOR gold][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] SOBRENATURAL [/COLOR]
 [COLOR gold][B]ANO DE LANÇAMENTO:[/B][/COLOR][COLOR white] 2005/2020 [/COLOR]
-[COLOR gold][B]GÊNERO:[/B][/COLOR][COLOR white]  Drama, Fantasia, Séries, Temporadas Completas, Terror [/COLOR]
+[COLOR gold][B]GÊNERO:[/B][/COLOR][COLOR white] Drama, Fantasia, Séries, Temporadas Completas, Terror [/COLOR]
 [COLOR gold][B]QUALIDADE:[/B][/COLOR][COLOR cyan] FULL HD [/COLOR]
 [COLOR gold][B]TEMPODAS:[/B][/COLOR][COLOR cyan] 15 [/COLOR]
 [COLOR gold][B]IMDB:[/B][/COLOR][COLOR white][B] 8.3 [/B][/COLOR]
@@ -33,3 +33,19 @@
 </channels>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]●[/B][/COLOR][COLOR white][B] The Blacklist [/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ziy2LUOZOA3Ob5hGZAvKXCmvwe9.jpg</thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+<info>[COLOR gold][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] The Blacklist [/COLOR]
+[COLOR gold][B]ANO DE LANÇAMENTO:[/B][/COLOR][COLOR white] 2013/2019 [/COLOR]
+[COLOR gold][B]GÊNERO:[/B][/COLOR][COLOR white]  Crime, Drama [/COLOR]
+[COLOR gold][B]QUALIDADE:[/B][/COLOR][COLOR cyan] FULL HD [/COLOR]
+[COLOR gold][B]TEMPODAS:[/B][/COLOR][COLOR cyan] 7 [/COLOR]
+[COLOR gold][B]IMDB:[/B][/COLOR][COLOR white][B] 7.3 [/B][/COLOR]
+[COLOR gold][B]SINOPSE:[/B][/COLOR][COLOR white][B] Raymond Reddington é um dos criminosos mais procurados pelo FBI. Até que um dia ele decide se entregar misteriosamente à agência, oferecendo com ele uma lista de importantes nomes da comunidade do crime. Ele deseja participar ativamente da captura de tais criminosos e faz uma única exigência: só falará com a novata agente Elizabeth Keen.[/B][/COLOR]</info>
+</channel>
+</channels>
